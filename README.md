@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=princechorasiya&show_icons=true&locale=en&layout=compact" alt="princechorasiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princechorasiya&show_icons=true&locale=en" alt="princechorasiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=princechorasiya&show_icons=true&locale=en" alt="princechorasiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princechorasiya&" alt="princechorasiya" /></p>
